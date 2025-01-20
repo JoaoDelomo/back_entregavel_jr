@@ -26,7 +26,7 @@ Este é o backend da aplicação de gerenciamento de despesas e receitas, desenv
 
 2. Entre na pasta do projeto:
     ```bash
-    cd repo-backend
+    cd 
     ```
 
 3. Crie e ative o ambiente virtual:
